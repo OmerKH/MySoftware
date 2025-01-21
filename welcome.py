@@ -1,1 +1,2 @@
-print("New Screen")
+def welcome:
+  return "New Screen"
