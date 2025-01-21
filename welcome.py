@@ -1,2 +1,2 @@
 def welcome():
-  return "New Screen"
+  print("New Screen")
