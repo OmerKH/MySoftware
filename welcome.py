@@ -1,2 +1,2 @@
-def welcome:
+def welcome():
   return "New Screen"
